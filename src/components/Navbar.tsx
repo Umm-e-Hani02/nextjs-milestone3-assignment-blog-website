@@ -44,7 +44,7 @@ export default function Navbar() {
         {/* <div> */}
         <Sheet>
           <SheetTrigger>
-            <Image src="/logo.png" alt="logo" width={90} height={90} />
+            <Image src="/display/logo.png" alt="logo" width={90} height={90} />
           </SheetTrigger>
           <SheetContent>
             <div className="flex flex-col gap-y-5 text-lg pt-12">
